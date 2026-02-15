@@ -1,0 +1,6 @@
+ls - lists files in current directory
+pwd - shows the current directory
+cd - changes directories
+mdkir - creates a new directory
+rm - deletes files
+
